@@ -3,6 +3,7 @@
     padding: 0;
 }
 .global-nav{
+    position: sticky;
     background-color: black;
     height: 61px;
     color: white;
